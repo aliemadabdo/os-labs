@@ -1,0 +1,11 @@
+
+1-write the multiplication logic for each thread function  [done]
+2-handle the writefunction to the log file [done]
+3-write a function to verifiy that all outputs are the same [cancelled]
+4-arrange the file [done]
+
+5-check requirements
+6- try to take different inputs
+7-still there is some race conditions
+
+

@@ -1,0 +1,6 @@
+to do 3al2ahwa: 
+check the error first on telegram then...
+1-write the multiplication logic for each thread function  
+2-handle the writefunction to the log file 
+3-write a function to verifiy that all outputs are the same
+mia meating

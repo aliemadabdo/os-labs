@@ -1,0 +1,2 @@
+Process 10472 terminated with status 0
+Process 12051 terminated with status 0
